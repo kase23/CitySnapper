@@ -1,0 +1,10 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+secrets.js
+Secrets.js
+.DS_STORE
